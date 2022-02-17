@@ -6,3 +6,6 @@ canvas{
 	background-color:hsla(189, 43%, 51%, 0.3);
 }
 
+.card{
+	border-radius: 20px;
+}

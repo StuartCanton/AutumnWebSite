@@ -43,6 +43,7 @@
     .page > main {
     grid-area: main;
     background-color: var(--colour-main);
+    background: var(--gradient-main);
     }
     .page .side {
         grid-area: side;
