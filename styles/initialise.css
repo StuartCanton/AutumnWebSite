@@ -26,12 +26,12 @@
 --colour-complementary-50:hsl(215, 69%, 50%);
 
     
-    --colour-background:hsl(5, 69%, 90%);
-    --colour-main:hsl(65, 69%, 30%);
-    --gradient-main:linear-gradient(hsl(65, 69%, 20%),hsl(5, 69%, 50%));
-    --colour-head:hsl(35, 69%, 30%);
-    --colour-title:hsl(35, 69%, 77%);
-    --colour-navi:hsl(35, 69%, 50%);
-    --colour-foot:hsl(35, 69%, 77%);
-    --colour-side:hsl(35, 69%, 77%);
+    --colour-background:hsl(210, 20%, 98%);       /* near-white, cool */
+    --colour-main:hsl(210, 60%, 28%);             /* deep blue */
+    --gradient-main:linear-gradient(hsl(210, 60%, 24%), hsl(210, 55%, 40%));
+    --colour-head:hsl(210, 40%, 22%);             /* darker header */
+    --colour-title:hsl(210, 25%, 92%);            /* light title surface */
+    --colour-navi:hsl(210, 35%, 88%);             /* soft nav background */
+    --colour-foot:hsl(210, 20%, 94%);             /* footer surface */
+    --colour-side:hsl(210, 20%, 94%);             /* side surface */
 }
