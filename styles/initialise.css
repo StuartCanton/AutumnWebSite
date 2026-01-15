@@ -29,7 +29,7 @@
     --colour-background:hsl(210, 20%, 98%);       /* near-white, cool */
     --colour-main:hsl(210, 60%, 28%);             /* deep blue */
     --gradient-main:linear-gradient(hsl(210, 60%, 24%), hsl(210, 55%, 40%));
-    --colour-head:hsl(210, 40%, 22%);             /* darker header */
+    --colour-head:hsl(210, 60%, 28%);             /* darker header */
     --colour-title:hsl(210, 25%, 92%);            /* light title surface */
     --colour-navi:hsl(210, 35%, 88%);             /* soft nav background */
     --colour-foot:hsl(210, 20%, 94%);             /* footer surface */
